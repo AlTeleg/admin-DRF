@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="endblock" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="phones.models.Phone.objects" />
+          <option value="books.models.Book.objects" />
+          <option value="school.models.Student.*" />
+          <option value="articles.models.Article.*" />
+          <option value="measurement.models.Sensor.*" />
+          <option value="measurement.models.Measurement.*" />
+          <option value="stocks_products.settings.DEFAULT_FILTER_BACKENDS" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
